@@ -34,4 +34,26 @@ https://docs.google.com/spreadsheets/d/1fneMd1HGSnWZAaRyK_r2MWKxwujRqC7A/edit#gi
 #### 民間の個人や企業の方
 シビックテックに興味をお持ちのエンジニア・デザイナーの方や、飲食店情報の標準化に興味をお持ちの方は、Code for JapanのSlack (https://cfjslackin.herokuapp.com/) にご参加ください。
 
-OPEN EATS JAPANについては、#covid19-opendataチャンネルで行ってます。
+
+## 飲食店情報オープンデータ項目定義書の改善提案
+
+### GituHubで行うこと
+
+* 改善提案をIssueで議論
+* ドキュメントのバージョン管理
+
+OPEN EATS JAPANに関連した議論&ドキュメントのバージョン管理はGitHubで行います。
+改善提案はGitHubのIssueを上げてください。  
+
+Issue単位で議論をしてバージョンアップをしていきたいと思います。
+
+データ定義はバージョンアップ毎にGoogleスプレッドシートの[飲食店情報オープンデータ項目定義書](https://docs.google.com/spreadsheets/d/1fneMd1HGSnWZAaRyK_r2MWKxwujRqC7A/edit#gid=1513166793)を更新します
+
+GitHubに運用面の提案も是非にお願いします。
+
+
+### GituHubとSlack
+OPEN EATS JAPANについては、#covid19-opendataチャンネル でも並行して話をしていきます
+Slackでは、全体的な話、相談、情報共有、雑談等で使用します
+
+GitHubがわからない方「Issueってなに？」「どうやって改善提案を上げるの？」という方は出来る限りサポートをするので、Slackの#covid19-opendataチャンネルで質問をしてください
