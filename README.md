@@ -41,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1fneMd1HGSnWZAaRyK_r2MWKxwujRqC7A/edit#gi
 
 * 改善提案をIssueで議論
 * ドキュメントのバージョン管理
-* おすすめの標準タグセットや推奨テンプレートの定義
+* おすすめの標準タグ（キーワード）セットや推奨テンプレートの定義
 
 OPEN EATS JAPANに関連した議論&ドキュメントのバージョン管理はGitHubで行います。
 改善提案はGitHubのIssueを上げてください。  
