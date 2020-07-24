@@ -37,7 +37,7 @@ https://docs.google.com/spreadsheets/d/1fneMd1HGSnWZAaRyK_r2MWKxwujRqC7A/edit#gi
 
 ## 飲食店情報オープンデータ項目定義書の改善提案
 
-### GituHubで行うこと
+### GitHubで行うこと
 
 * 改善提案をIssueで議論
 * ドキュメントのバージョン管理
