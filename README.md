@@ -52,7 +52,7 @@ Issue単位で議論をしてバージョンアップをしていきたいと思
 GitHubに運用面の提案も是非にお願いします。
 
 
-### GituHubとSlack
+### GitHubとSlack
 OPEN EATS JAPANについては、#covid19-opendataチャンネル でも並行して話をしていきます
 Slackでは、全体的な話、相談、情報共有、雑談等で使用します
 
