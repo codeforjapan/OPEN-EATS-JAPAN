@@ -54,7 +54,8 @@ GitHubに運用面の提案も是非にお願いします。
 
 
 ### GitHubとSlack
-OPEN EATS JAPANについては、#covid19-opendataチャンネル でも並行して話をしていきます
-Slackでは、全体的な話、相談、情報共有、雑談等で使用します
 
-GitHubがわからない方「Issueってなに？」「どうやって改善提案を上げるの？」という方は出来る限りサポートをするので、Slackの#covid19-opendataチャンネルで質問をしてください
+OPEN EATS JAPANについては、Code for Japan Slack の **`#openeatsjapan`** チャンネル（2020年7月24日以前は `#covid19-opendata` チャンネル）でも並行して話をしていきます
+Slackでは、全体的な話、相談、情報共有、雑談等で使用します。
+
+GitHubがわからない方「Issueってなに？」「どうやって改善提案を上げるの？」という方は出来る限りサポートをするので、Slackの `#openeatsjapan` チャンネルで質問をしてください
