@@ -27,12 +27,22 @@ https://docs.google.com/spreadsheets/d/1fneMd1HGSnWZAaRyK_r2MWKxwujRqC7A/edit#gi
 
 * [OPEN EATS JAPANプロジェクトについて](https://www.code4japan.org/activity/open_eats_japan)
 
+#### OPEN EATS JAPANプロジェクト
+OPEN EATS JAPANプロジェクトの進め方については、下記にIssueを上げて議論をしていきます。
+定義書の決定の仕方や考え方を整理してますので、ご意見をいただければと思います
+
+* [#16「飲食店情報オープンデータ項目定義書」の位置づけと意思決定の明確化](https://github.com/codeforjapan/OPEN-EATS-JAPAN/issues/16)
+
+
 #### 自治体の方
 
 オープンデータを進めるにあたり支援の必要な自治体ご担当者の方は info@code4japan.org にメールでお問い合わせください。
 
 #### 民間の個人や企業の方
 シビックテックに興味をお持ちのエンジニア・デザイナーの方や、飲食店情報の標準化に興味をお持ちの方は、Code for JapanのSlack (https://cfjslackin.herokuapp.com/) にご参加ください。
+
+別な方法として、下記からの招待メール経由でCode for JapanのSlackに参加が出来ます。
+* [Code for JapanのSlackの招待](https://join.slack.com/t/cfj/shared_invite/zt-88tbjehh-_ANL8iwMkwAuuBtXqiyPYg)
 
 
 ## 飲食店情報オープンデータ項目定義書の改善提案
@@ -46,12 +56,14 @@ https://docs.google.com/spreadsheets/d/1fneMd1HGSnWZAaRyK_r2MWKxwujRqC7A/edit#gi
 OPEN EATS JAPANに関連した議論&ドキュメントのバージョン管理はGitHubで行います。
 改善提案はGitHubのIssueを上げてください。  
 
-Issue単位で議論をしてバージョンアップをしていきたいと思います。
-
-データ定義はバージョンアップ毎にGoogleスプレッドシートの[飲食店情報オープンデータ項目定義書](https://docs.google.com/spreadsheets/d/1fneMd1HGSnWZAaRyK_r2MWKxwujRqC7A/edit#gid=1513166793)を更新します
 
 GitHubに運用面の提案も是非にお願いします。
 
+### 定義書の更新
+
+* 最新の定義書はシート毎にCSVファイルで管理してます
+* Issue単位で議論をして、決定したらCSVに対してPull Requestを出して更新をします
+* データ定義書はバージョンアップ毎にGoogleスプレッドシートの[飲食店情報オープンデータ項目定義書](https://docs.google.com/spreadsheets/d/1fneMd1HGSnWZAaRyK_r2MWKxwujRqC7A/edit#gid=1513166793)を更新します
 
 ### GitHubとSlack
 
@@ -59,3 +71,4 @@ OPEN EATS JAPANについては、Code for Japan Slack の **`#openeatsjapan`** �
 Slackでは、全体的な話、相談、情報共有、雑談等で使用します。
 
 GitHubがわからない方「Issueってなに？」「どうやって改善提案を上げるの？」という方は出来る限りサポートをするので、Slackの `#openeatsjapan` チャンネルで質問をしてください
+
