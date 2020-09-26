@@ -72,3 +72,15 @@ Slackでは、全体的な話、相談、情報共有、雑談等で使用しま
 
 GitHubがわからない方「Issueってなに？」「どうやって改善提案を上げるの？」という方は出来る限りサポートをするので、Slackの `#openeatsjapan` チャンネルで質問をしてください
 
+### 飲食店情報のオープンデータ一覧
+
+* トレタ - 日本の飲食店オープンデータ
+    - https://github.com/toreta/restaurants-opendata-in-japan
+* Save the tables - 日本の飲食店オープンデータ
+    - https://github.com/Savethetables/Restaurant/
+- Code for YOKOHAMA - テイクアウトとデリバリ情報 (YOKOHAMA to GO)
+    - https://github.com/Code4Yokohama/yokohama-to-go/blob/master/data/takeoutyokohama.csv
+- オープン川崎 - BrownBagプロジェクト
+    - https://github.com/openkawasaki/brownbag-django/blob/master/data/shop.csv
+
+
