@@ -81,6 +81,6 @@ GitHubがわからない方「Issueってなに？」「どうやって改善提
 - Code for YOKOHAMA - テイクアウトとデリバリ情報 (YOKOHAMA to GO)
     - https://github.com/Code4Yokohama/yokohama-to-go/blob/master/data/takeoutyokohama.csv
 - オープン川崎 - BrownBagプロジェクト
-    - https://github.com/openkawasaki/brownbag-django/blob/master/data/
+    - https://github.com/openkawasaki/brownbag-django/
 
 
