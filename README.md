@@ -72,6 +72,19 @@ Slackでは、全体的な話、相談、情報共有、雑談等で使用しま
 
 GitHubがわからない方「Issueってなに？」「どうやって改善提案を上げるの？」という方は出来る限りサポートをするので、Slackの `#openeatsjapan` チャンネルで質問をしてください
 
+### 協力団体
+本プロジェクトでは、すでに飲食店情報やテイクアウト・デリバリー情報の検索サービスを運営している民間企業や、各地のシビックテック団体と協力し、互いの所有するデータやサービスデザインを共有しながら飲食店データの標準フォーマットの検討を進めています。
+
+| 協力団体 | 備考 |
+|:--------|:--|
+| [うちたべ](https://uchitabe.com/)　| |
+| [オープン川崎/Code for Kawasaki](https://www.openkawasaki.org/) | [よこはま かわさき BENTO MAP](https://brownbag.openkawasaki.org/) |
+| [KATTE](https://katte.info/)　| |
+| [Code for YOKOHAMA](https://code4.yokohama/)　| [YOKOHAMA to Go](https://to-go.yokohama/) |
+| [Save the tables](https://savethetables.org/)　| |
+| [株式会社トレタ](https://toreta.in/jp/)　| |
+
+
 ### 飲食店情報のオープンデータ一覧
 
 * トレタ - 日本の飲食店オープンデータ
