@@ -83,7 +83,7 @@ GitHubがわからない方「Issueってなに？」「どうやって改善提
 | [Code for YOKOHAMA](https://code4.yokohama/)　| [YOKOHAMA to Go](https://to-go.yokohama/) |
 | [Save the tables](https://savethetables.org/)　| |
 | [株式会社トレタ](https://toreta.in/jp/)　| |
-
+| [食べてみりんプロジェクト](https://uzura.org/archives/2823) | 主催：豊橋商工会議所 豊橋技術科学大学 大村研究室、東三河食べ支えプロジェクト、Code for MIKAWAからなる組織 |
 
 ### 飲食店情報のオープンデータ一覧
 
@@ -91,9 +91,10 @@ GitHubがわからない方「Issueってなに？」「どうやって改善提
     - https://github.com/toreta/restaurants-opendata-in-japan
 * Save the tables - 日本の飲食店オープンデータ
     - https://github.com/Savethetables/Restaurant/
-- Code for YOKOHAMA - テイクアウトとデリバリ情報 (YOKOHAMA to GO)
+* Code for YOKOHAMA - テイクアウトとデリバリ情報 (YOKOHAMA to GO)
     - https://github.com/Code4Yokohama/yokohama-to-go/blob/master/data/takeoutyokohama.csv
-- オープン川崎 - BrownBagプロジェクト
+* オープン川崎 - BrownBagプロジェクト
     - https://github.com/openkawasaki/brownbag-django/
-
+* 食べてみりんプロジェクト（Open Data HIGASHI-MIKAWA）
+    - https://opendata-east-mikawa.jp/node/1973 
 
