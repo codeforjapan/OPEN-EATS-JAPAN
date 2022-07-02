@@ -1,5 +1,7 @@
 OPEN EATS JAPAN
 -----
+| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+
 
 ## 飲食店情報オープンデータ項目定義書
 * 本データ項目定義書は、飲食店情報をオープンデータとして公開する際の標準的なフォーマットを定めたものです
